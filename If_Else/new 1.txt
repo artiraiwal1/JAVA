@@ -1,0 +1,24 @@
+import java.util.Scanner;
+class Vowel
+{
+public static void main(String[]args)                                  
+{
+	int a,b;
+
+  	Scanner sc = new Scanner(System.in);
+	
+	System.out.println("Enter first arm ");
+	System.out.println("Enter second arm ");
+	a=sc.nextIng();
+	
+  	if(a==b)
+	{
+	System.out.println("Valide squar");
+	}
+	
+	if(a!=b)
+	{
+	System.out.println("not Valide squar");
+	}
+}
+}
