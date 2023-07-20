@@ -14,7 +14,7 @@ String a=sc.next();
 
 System.out.println("Enter second string");
 String b=sc.next();
-
+// i am
 System.out.println(a+" "+b);
 }
 }
